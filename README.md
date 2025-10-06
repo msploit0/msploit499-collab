@@ -1,5 +1,5 @@
 ![MasterHead](https://i.hizliresim.com/gijo3nx.png)
-<h3 align="center">  ______                               __              __               
+  ______                               __              __               
  /      \                             /  |            /  |              
 /$$$$$$  |_______   ______    _______ $$/   ______   _$$ |_    __    __ 
 $$ |_ $$//       | /      \  /       |/  | /      \ / $$   |  /  |  /  |
@@ -10,7 +10,7 @@ $$ |    /     $$/ $$    $$/ $$       |$$ |$$       |  $$  $$/ $$    $$ |
 $$/     $$$$$$$/   $$$$$$/   $$$$$$$/ $$/  $$$$$$$/    $$$$/   $$$$$$$ |
                                                               /  \__$$ |
                                                               $$    $$/ 
-                                                               $$$$$$/  </h3>
+                                                               $$$$$$/  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msploit499-collab&label=Profile%20views&color=0e75b6&style=flat" alt="msploit499-collab" /> </p>
 
